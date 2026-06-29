@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, I'm a 3rd year student at UCSD.
+Hello, I'm a 3rd year undergrad student at UCSD.
 I enjoy learning new things from operating systems, ML, cloud, and more.
 
 My main tech stack is javascript, react, java, and anything that interests me.
